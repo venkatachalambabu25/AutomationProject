@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-21T14:05:20 IST" name="Default suite" finished-at="2026-10-21T14:06:59 IST" duration-ms="98397">
+    <groups>
+    </groups>
+    <test started-at="2026-10-21T14:05:20 IST" name="Default test" finished-at="2026-10-21T14:06:59 IST" duration-ms="98397">
+      <class name="TestCase.Demo">
+        <test-method signature="Profile_Update()[pri:0, instance:TestCase.Demo@196a42c3]" started-at="2026-10-21T14:05:20 IST" name="Profile_Update" finished-at="2026-10-21T14:06:59 IST" duration-ms="98340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Profile_Update -->
+      </class> <!-- TestCase.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
